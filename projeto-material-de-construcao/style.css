@@ -1,0 +1,24 @@
+.cards {
+  display: flex;  
+  justify-content: space-between;
+  padding: 15px 40px;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between; 
+    padding: 15px 40px;
+    align-items: center;  
+}
+
+.btn-cabecalho {
+    padding: 0 20px;
+}
+
+.btn-contato {
+    padding-left: 20px;
+}
+
+.logo-cabecalho {
+    width: 150px 
+}
